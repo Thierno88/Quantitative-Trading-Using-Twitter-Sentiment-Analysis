@@ -31,7 +31,9 @@ The process involves the following steps:
 
 <h2>Results</h2>
 
-<p>The project demonstrates a systematic approach to integrating social media sentiment into an investment strategy. The performance of the strategy can be visualized through backtesting results, comparing it against a benchmark index (NASDAQ/QQQ) to evaluate its effectiveness.</p>
+<p>The project demonstrates a systematic approach to integrating social media sentiment into an investment strategy. The performance of the strategy can be visualized through backtesting results in the image below, comparing it against a benchmark index (NASDAQ/QQQ) to evaluate its effectiveness.</p>
+
+<img src="portifolio_against_nasdaq.png">
 
 <h2>Disclaimer</h2>
 This project is purely educational and is not intended as financial advice. The strategy presented here should not be considered a recommendation to buy or sell any securities. Investing in the stock market involves risks, and it is essential to conduct thorough research or consult with a financial advisor before making any investment decision
